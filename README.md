@@ -1,0 +1,2 @@
+# python_findS_algorithm
+FIND-S:- FINDING THE MOST SPECIFIC HYPOTHESIS
